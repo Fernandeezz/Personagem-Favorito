@@ -2,14 +2,13 @@
 
 <img src="Captura de tela 2023-05-25 183125.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Neste projeto após responder um pequeno formulário é possível receber informações sobre o seu Personagem Favorito tendo acesso também a um Banco de Dados em txt para alteração dos dados cadastrais. 
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Visuzalizar o Banco de Dados
+- [x] Realizar Alerações no Banco
+- [ ] Alterar o Banco de .txt para SQL
+- [ ] Adicionar outros personagens
