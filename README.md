@@ -1,6 +1,6 @@
 # Personagem-Favorito
 
-<img src=![Uploading image.png…]()" alt="exemplo imagem">
+<img src="Captura de tela 2023-05-25 183125" alt="exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
