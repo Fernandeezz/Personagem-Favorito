@@ -8,7 +8,7 @@
   </head>
   <body>
   <header>
-    <!-- Main navigation  -->
+    <!-- Main navigation container -->
 <nav
   class="relative flex w-full flex-nowrap items-center justify-between bg-blue py-2 text-neutral-500 shadow-lg hover:text-neutral-700 focus:text-neutral-700 dark:bg-neutral-600 lg:flex-wrap lg:justify-start lg:py-4"
   data-te-navbar-ref style="background-color: #0a4275">
@@ -133,3 +133,4 @@
 <script src="style.js"></script>
   </body>
 </html>
+  
